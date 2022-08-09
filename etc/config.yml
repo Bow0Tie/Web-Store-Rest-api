@@ -7,5 +7,5 @@ postgres:
 
 authorization:
   salt: "\xf8\x90\x8b\xa5\x8f$\x12\xd3\x15\xfbOC\xcf;\x11P\x840\xf0+\n\xa8\x1c\r\x18\xfc\xa7ru\x9a\x02B"
-  secret_key: "HUi_pizda_scovoroda"
+  secret_key: "Sicret Key"
 
